@@ -1,0 +1,29 @@
+
+body {
+  background: rgb(40, 96, 55);
+  background: linear-gradient(
+    172deg,
+    rgba(40, 96, 55, 1) 0%,
+    rgba(9, 9, 121, 1) 100%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-margin-right {
+  margin-right: 5px !important;
+}
+
+
+.btn-margin-left {
+  margin-left: 5px !important;
+}
