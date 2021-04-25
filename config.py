@@ -1,6 +1,6 @@
 # App
 
-DEBUG = True
+DEBUG = False
 APP_PORT = 3000
 BASE_URL_API = '/api/v1'
 
